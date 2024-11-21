@@ -1,0 +1,14 @@
+C:\Users\ronni\source\repos\calcularSuma\practicaClase\bin\Debug\net8.0\practicaClase.exe
+C:\Users\ronni\source\repos\calcularSuma\practicaClase\bin\Debug\net8.0\practicaClase.deps.json
+C:\Users\ronni\source\repos\calcularSuma\practicaClase\bin\Debug\net8.0\practicaClase.runtimeconfig.json
+C:\Users\ronni\source\repos\calcularSuma\practicaClase\bin\Debug\net8.0\practicaClase.dll
+C:\Users\ronni\source\repos\calcularSuma\practicaClase\bin\Debug\net8.0\practicaClase.pdb
+C:\Users\ronni\source\repos\calcularSuma\practicaClase\obj\Debug\net8.0\practicaClase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronni\source\repos\calcularSuma\practicaClase\obj\Debug\net8.0\practicaClase.AssemblyInfoInputs.cache
+C:\Users\ronni\source\repos\calcularSuma\practicaClase\obj\Debug\net8.0\practicaClase.AssemblyInfo.cs
+C:\Users\ronni\source\repos\calcularSuma\practicaClase\obj\Debug\net8.0\practicaClase.csproj.CoreCompileInputs.cache
+C:\Users\ronni\source\repos\calcularSuma\practicaClase\obj\Debug\net8.0\practicaClase.dll
+C:\Users\ronni\source\repos\calcularSuma\practicaClase\obj\Debug\net8.0\refint\practicaClase.dll
+C:\Users\ronni\source\repos\calcularSuma\practicaClase\obj\Debug\net8.0\practicaClase.pdb
+C:\Users\ronni\source\repos\calcularSuma\practicaClase\obj\Debug\net8.0\practicaClase.genruntimeconfig.cache
+C:\Users\ronni\source\repos\calcularSuma\practicaClase\obj\Debug\net8.0\ref\practicaClase.dll

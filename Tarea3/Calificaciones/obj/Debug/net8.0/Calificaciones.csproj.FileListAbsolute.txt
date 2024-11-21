@@ -1,0 +1,14 @@
+C:\Users\ronni\source\repos\Tarea3\Calificaciones\bin\Debug\net8.0\Calificaciones.exe
+C:\Users\ronni\source\repos\Tarea3\Calificaciones\bin\Debug\net8.0\Calificaciones.deps.json
+C:\Users\ronni\source\repos\Tarea3\Calificaciones\bin\Debug\net8.0\Calificaciones.runtimeconfig.json
+C:\Users\ronni\source\repos\Tarea3\Calificaciones\bin\Debug\net8.0\Calificaciones.dll
+C:\Users\ronni\source\repos\Tarea3\Calificaciones\bin\Debug\net8.0\Calificaciones.pdb
+C:\Users\ronni\source\repos\Tarea3\Calificaciones\obj\Debug\net8.0\Calificaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronni\source\repos\Tarea3\Calificaciones\obj\Debug\net8.0\Calificaciones.AssemblyInfoInputs.cache
+C:\Users\ronni\source\repos\Tarea3\Calificaciones\obj\Debug\net8.0\Calificaciones.AssemblyInfo.cs
+C:\Users\ronni\source\repos\Tarea3\Calificaciones\obj\Debug\net8.0\Calificaciones.csproj.CoreCompileInputs.cache
+C:\Users\ronni\source\repos\Tarea3\Calificaciones\obj\Debug\net8.0\Calificaciones.dll
+C:\Users\ronni\source\repos\Tarea3\Calificaciones\obj\Debug\net8.0\refint\Calificaciones.dll
+C:\Users\ronni\source\repos\Tarea3\Calificaciones\obj\Debug\net8.0\Calificaciones.pdb
+C:\Users\ronni\source\repos\Tarea3\Calificaciones\obj\Debug\net8.0\Calificaciones.genruntimeconfig.cache
+C:\Users\ronni\source\repos\Tarea3\Calificaciones\obj\Debug\net8.0\ref\Calificaciones.dll

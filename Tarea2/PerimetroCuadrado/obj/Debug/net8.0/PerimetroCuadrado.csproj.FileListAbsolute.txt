@@ -1,0 +1,15 @@
+C:\Users\ronni\source\repos\csbsol\CSB\Tarea2\PerimetroCuadrado\bin\Debug\net8.0\PerimetroCuadrado.exe
+C:\Users\ronni\source\repos\csbsol\CSB\Tarea2\PerimetroCuadrado\bin\Debug\net8.0\PerimetroCuadrado.deps.json
+C:\Users\ronni\source\repos\csbsol\CSB\Tarea2\PerimetroCuadrado\bin\Debug\net8.0\PerimetroCuadrado.runtimeconfig.json
+C:\Users\ronni\source\repos\csbsol\CSB\Tarea2\PerimetroCuadrado\bin\Debug\net8.0\PerimetroCuadrado.dll
+C:\Users\ronni\source\repos\csbsol\CSB\Tarea2\PerimetroCuadrado\bin\Debug\net8.0\PerimetroCuadrado.pdb
+C:\Users\ronni\source\repos\csbsol\CSB\Tarea2\PerimetroCuadrado\obj\Debug\net8.0\PerimetroCuadrado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronni\source\repos\csbsol\CSB\Tarea2\PerimetroCuadrado\obj\Debug\net8.0\PerimetroCuadrado.AssemblyInfoInputs.cache
+C:\Users\ronni\source\repos\csbsol\CSB\Tarea2\PerimetroCuadrado\obj\Debug\net8.0\PerimetroCuadrado.AssemblyInfo.cs
+C:\Users\ronni\source\repos\csbsol\CSB\Tarea2\PerimetroCuadrado\obj\Debug\net8.0\PerimetroCuadrado.csproj.CoreCompileInputs.cache
+C:\Users\ronni\source\repos\csbsol\CSB\Tarea2\PerimetroCuadrado\obj\Debug\net8.0\PerimetroCuadrado.sourcelink.json
+C:\Users\ronni\source\repos\csbsol\CSB\Tarea2\PerimetroCuadrado\obj\Debug\net8.0\PerimetroCuadrado.dll
+C:\Users\ronni\source\repos\csbsol\CSB\Tarea2\PerimetroCuadrado\obj\Debug\net8.0\refint\PerimetroCuadrado.dll
+C:\Users\ronni\source\repos\csbsol\CSB\Tarea2\PerimetroCuadrado\obj\Debug\net8.0\PerimetroCuadrado.pdb
+C:\Users\ronni\source\repos\csbsol\CSB\Tarea2\PerimetroCuadrado\obj\Debug\net8.0\PerimetroCuadrado.genruntimeconfig.cache
+C:\Users\ronni\source\repos\csbsol\CSB\Tarea2\PerimetroCuadrado\obj\Debug\net8.0\ref\PerimetroCuadrado.dll

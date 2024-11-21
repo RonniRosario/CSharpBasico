@@ -1,0 +1,14 @@
+C:\Users\ronni\source\repos\Tarea3\programaTest\bin\Debug\net8.0\programaTest.exe
+C:\Users\ronni\source\repos\Tarea3\programaTest\bin\Debug\net8.0\programaTest.deps.json
+C:\Users\ronni\source\repos\Tarea3\programaTest\bin\Debug\net8.0\programaTest.runtimeconfig.json
+C:\Users\ronni\source\repos\Tarea3\programaTest\bin\Debug\net8.0\programaTest.dll
+C:\Users\ronni\source\repos\Tarea3\programaTest\bin\Debug\net8.0\programaTest.pdb
+C:\Users\ronni\source\repos\Tarea3\programaTest\obj\Debug\net8.0\programaTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronni\source\repos\Tarea3\programaTest\obj\Debug\net8.0\programaTest.AssemblyInfoInputs.cache
+C:\Users\ronni\source\repos\Tarea3\programaTest\obj\Debug\net8.0\programaTest.AssemblyInfo.cs
+C:\Users\ronni\source\repos\Tarea3\programaTest\obj\Debug\net8.0\programaTest.csproj.CoreCompileInputs.cache
+C:\Users\ronni\source\repos\Tarea3\programaTest\obj\Debug\net8.0\programaTest.dll
+C:\Users\ronni\source\repos\Tarea3\programaTest\obj\Debug\net8.0\refint\programaTest.dll
+C:\Users\ronni\source\repos\Tarea3\programaTest\obj\Debug\net8.0\programaTest.pdb
+C:\Users\ronni\source\repos\Tarea3\programaTest\obj\Debug\net8.0\programaTest.genruntimeconfig.cache
+C:\Users\ronni\source\repos\Tarea3\programaTest\obj\Debug\net8.0\ref\programaTest.dll

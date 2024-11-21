@@ -1,0 +1,14 @@
+C:\Users\ronni\source\repos\Tarea3\operacionesConNumeros\bin\Debug\net8.0\operacionesConNumeros.exe
+C:\Users\ronni\source\repos\Tarea3\operacionesConNumeros\bin\Debug\net8.0\operacionesConNumeros.deps.json
+C:\Users\ronni\source\repos\Tarea3\operacionesConNumeros\bin\Debug\net8.0\operacionesConNumeros.runtimeconfig.json
+C:\Users\ronni\source\repos\Tarea3\operacionesConNumeros\bin\Debug\net8.0\operacionesConNumeros.dll
+C:\Users\ronni\source\repos\Tarea3\operacionesConNumeros\bin\Debug\net8.0\operacionesConNumeros.pdb
+C:\Users\ronni\source\repos\Tarea3\operacionesConNumeros\obj\Debug\net8.0\operacionesConNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronni\source\repos\Tarea3\operacionesConNumeros\obj\Debug\net8.0\operacionesConNumeros.AssemblyInfoInputs.cache
+C:\Users\ronni\source\repos\Tarea3\operacionesConNumeros\obj\Debug\net8.0\operacionesConNumeros.AssemblyInfo.cs
+C:\Users\ronni\source\repos\Tarea3\operacionesConNumeros\obj\Debug\net8.0\operacionesConNumeros.csproj.CoreCompileInputs.cache
+C:\Users\ronni\source\repos\Tarea3\operacionesConNumeros\obj\Debug\net8.0\operacionesConNumeros.dll
+C:\Users\ronni\source\repos\Tarea3\operacionesConNumeros\obj\Debug\net8.0\refint\operacionesConNumeros.dll
+C:\Users\ronni\source\repos\Tarea3\operacionesConNumeros\obj\Debug\net8.0\operacionesConNumeros.pdb
+C:\Users\ronni\source\repos\Tarea3\operacionesConNumeros\obj\Debug\net8.0\operacionesConNumeros.genruntimeconfig.cache
+C:\Users\ronni\source\repos\Tarea3\operacionesConNumeros\obj\Debug\net8.0\ref\operacionesConNumeros.dll
