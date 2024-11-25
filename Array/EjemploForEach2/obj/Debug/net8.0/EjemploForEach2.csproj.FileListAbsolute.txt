@@ -1,0 +1,15 @@
+C:\Users\ronni\source\repos\CSharpBasico\Array\EjemploForEach2\bin\Debug\net8.0\EjemploForEach2.exe
+C:\Users\ronni\source\repos\CSharpBasico\Array\EjemploForEach2\bin\Debug\net8.0\EjemploForEach2.deps.json
+C:\Users\ronni\source\repos\CSharpBasico\Array\EjemploForEach2\bin\Debug\net8.0\EjemploForEach2.runtimeconfig.json
+C:\Users\ronni\source\repos\CSharpBasico\Array\EjemploForEach2\bin\Debug\net8.0\EjemploForEach2.dll
+C:\Users\ronni\source\repos\CSharpBasico\Array\EjemploForEach2\bin\Debug\net8.0\EjemploForEach2.pdb
+C:\Users\ronni\source\repos\CSharpBasico\Array\EjemploForEach2\obj\Debug\net8.0\EjemploForEach2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronni\source\repos\CSharpBasico\Array\EjemploForEach2\obj\Debug\net8.0\EjemploForEach2.AssemblyInfoInputs.cache
+C:\Users\ronni\source\repos\CSharpBasico\Array\EjemploForEach2\obj\Debug\net8.0\EjemploForEach2.AssemblyInfo.cs
+C:\Users\ronni\source\repos\CSharpBasico\Array\EjemploForEach2\obj\Debug\net8.0\EjemploForEach2.csproj.CoreCompileInputs.cache
+C:\Users\ronni\source\repos\CSharpBasico\Array\EjemploForEach2\obj\Debug\net8.0\EjemploForEach2.sourcelink.json
+C:\Users\ronni\source\repos\CSharpBasico\Array\EjemploForEach2\obj\Debug\net8.0\EjemploForEach2.dll
+C:\Users\ronni\source\repos\CSharpBasico\Array\EjemploForEach2\obj\Debug\net8.0\refint\EjemploForEach2.dll
+C:\Users\ronni\source\repos\CSharpBasico\Array\EjemploForEach2\obj\Debug\net8.0\EjemploForEach2.pdb
+C:\Users\ronni\source\repos\CSharpBasico\Array\EjemploForEach2\obj\Debug\net8.0\EjemploForEach2.genruntimeconfig.cache
+C:\Users\ronni\source\repos\CSharpBasico\Array\EjemploForEach2\obj\Debug\net8.0\ref\EjemploForEach2.dll

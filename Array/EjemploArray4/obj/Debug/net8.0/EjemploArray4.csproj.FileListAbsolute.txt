@@ -1,0 +1,15 @@
+C:\Users\ronni\source\repos\CSharpBasico\Array\EjemploArray4\bin\Debug\net8.0\EjemploArray4.exe
+C:\Users\ronni\Source\Repos\CSharpBasico\Array\EjemploArray4\bin\Debug\net8.0\EjemploArray4.deps.json
+C:\Users\ronni\Source\Repos\CSharpBasico\Array\EjemploArray4\bin\Debug\net8.0\EjemploArray4.runtimeconfig.json
+C:\Users\ronni\source\repos\CSharpBasico\Array\EjemploArray4\bin\Debug\net8.0\EjemploArray4.dll
+C:\Users\ronni\source\repos\CSharpBasico\Array\EjemploArray4\bin\Debug\net8.0\EjemploArray4.pdb
+C:\Users\ronni\source\repos\CSharpBasico\Array\EjemploArray4\obj\Debug\net8.0\EjemploArray4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronni\source\repos\CSharpBasico\Array\EjemploArray4\obj\Debug\net8.0\EjemploArray4.AssemblyInfoInputs.cache
+C:\Users\ronni\source\repos\CSharpBasico\Array\EjemploArray4\obj\Debug\net8.0\EjemploArray4.AssemblyInfo.cs
+C:\Users\ronni\source\repos\CSharpBasico\Array\EjemploArray4\obj\Debug\net8.0\EjemploArray4.csproj.CoreCompileInputs.cache
+C:\Users\ronni\source\repos\CSharpBasico\Array\EjemploArray4\obj\Debug\net8.0\EjemploArray4.sourcelink.json
+C:\Users\ronni\source\repos\CSharpBasico\Array\EjemploArray4\obj\Debug\net8.0\EjemploArray4.dll
+C:\Users\ronni\source\repos\CSharpBasico\Array\EjemploArray4\obj\Debug\net8.0\refint\EjemploArray4.dll
+C:\Users\ronni\source\repos\CSharpBasico\Array\EjemploArray4\obj\Debug\net8.0\EjemploArray4.pdb
+C:\Users\ronni\Source\Repos\CSharpBasico\Array\EjemploArray4\obj\Debug\net8.0\EjemploArray4.genruntimeconfig.cache
+C:\Users\ronni\Source\Repos\CSharpBasico\Array\EjemploArray4\obj\Debug\net8.0\ref\EjemploArray4.dll

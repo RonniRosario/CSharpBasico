@@ -1,0 +1,15 @@
+C:\Users\ronni\source\repos\CSharpBasico\Array\EncuestaEstudiantil\bin\Debug\net8.0\EjemploArray7.exe
+C:\Users\ronni\source\repos\CSharpBasico\Array\EncuestaEstudiantil\bin\Debug\net8.0\EjemploArray7.deps.json
+C:\Users\ronni\source\repos\CSharpBasico\Array\EncuestaEstudiantil\bin\Debug\net8.0\EjemploArray7.runtimeconfig.json
+C:\Users\ronni\source\repos\CSharpBasico\Array\EncuestaEstudiantil\bin\Debug\net8.0\EjemploArray7.dll
+C:\Users\ronni\source\repos\CSharpBasico\Array\EncuestaEstudiantil\bin\Debug\net8.0\EjemploArray7.pdb
+C:\Users\ronni\source\repos\CSharpBasico\Array\EncuestaEstudiantil\obj\Debug\net8.0\EjemploArray7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronni\source\repos\CSharpBasico\Array\EncuestaEstudiantil\obj\Debug\net8.0\EjemploArray7.AssemblyInfoInputs.cache
+C:\Users\ronni\source\repos\CSharpBasico\Array\EncuestaEstudiantil\obj\Debug\net8.0\EjemploArray7.AssemblyInfo.cs
+C:\Users\ronni\source\repos\CSharpBasico\Array\EncuestaEstudiantil\obj\Debug\net8.0\EjemploArray7.csproj.CoreCompileInputs.cache
+C:\Users\ronni\source\repos\CSharpBasico\Array\EncuestaEstudiantil\obj\Debug\net8.0\EjemploArray7.sourcelink.json
+C:\Users\ronni\source\repos\CSharpBasico\Array\EncuestaEstudiantil\obj\Debug\net8.0\EjemploArray7.dll
+C:\Users\ronni\source\repos\CSharpBasico\Array\EncuestaEstudiantil\obj\Debug\net8.0\refint\EjemploArray7.dll
+C:\Users\ronni\source\repos\CSharpBasico\Array\EncuestaEstudiantil\obj\Debug\net8.0\EjemploArray7.pdb
+C:\Users\ronni\source\repos\CSharpBasico\Array\EncuestaEstudiantil\obj\Debug\net8.0\EjemploArray7.genruntimeconfig.cache
+C:\Users\ronni\source\repos\CSharpBasico\Array\EncuestaEstudiantil\obj\Debug\net8.0\ref\EjemploArray7.dll

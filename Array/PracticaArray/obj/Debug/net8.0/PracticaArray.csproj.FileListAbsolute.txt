@@ -1,0 +1,15 @@
+C:\Users\ronni\Source\Repos\CSharpBasico\Array\PracticaArray\bin\Debug\net8.0\PracticaArray.exe
+C:\Users\ronni\Source\Repos\CSharpBasico\Array\PracticaArray\bin\Debug\net8.0\PracticaArray.deps.json
+C:\Users\ronni\Source\Repos\CSharpBasico\Array\PracticaArray\bin\Debug\net8.0\PracticaArray.runtimeconfig.json
+C:\Users\ronni\Source\Repos\CSharpBasico\Array\PracticaArray\bin\Debug\net8.0\PracticaArray.dll
+C:\Users\ronni\Source\Repos\CSharpBasico\Array\PracticaArray\bin\Debug\net8.0\PracticaArray.pdb
+C:\Users\ronni\Source\Repos\CSharpBasico\Array\PracticaArray\obj\Debug\net8.0\PracticaArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronni\Source\Repos\CSharpBasico\Array\PracticaArray\obj\Debug\net8.0\PracticaArray.AssemblyInfoInputs.cache
+C:\Users\ronni\Source\Repos\CSharpBasico\Array\PracticaArray\obj\Debug\net8.0\PracticaArray.AssemblyInfo.cs
+C:\Users\ronni\Source\Repos\CSharpBasico\Array\PracticaArray\obj\Debug\net8.0\PracticaArray.csproj.CoreCompileInputs.cache
+C:\Users\ronni\Source\Repos\CSharpBasico\Array\PracticaArray\obj\Debug\net8.0\PracticaArray.sourcelink.json
+C:\Users\ronni\Source\Repos\CSharpBasico\Array\PracticaArray\obj\Debug\net8.0\PracticaArray.dll
+C:\Users\ronni\Source\Repos\CSharpBasico\Array\PracticaArray\obj\Debug\net8.0\refint\PracticaArray.dll
+C:\Users\ronni\Source\Repos\CSharpBasico\Array\PracticaArray\obj\Debug\net8.0\PracticaArray.pdb
+C:\Users\ronni\Source\Repos\CSharpBasico\Array\PracticaArray\obj\Debug\net8.0\PracticaArray.genruntimeconfig.cache
+C:\Users\ronni\Source\Repos\CSharpBasico\Array\PracticaArray\obj\Debug\net8.0\ref\PracticaArray.dll

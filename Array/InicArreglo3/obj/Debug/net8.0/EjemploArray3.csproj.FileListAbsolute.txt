@@ -1,0 +1,15 @@
+C:\Users\ronni\source\repos\CSharpBasico\Array\InicArreglo3\bin\Debug\net8.0\EjemploArray3.exe
+C:\Users\ronni\source\repos\CSharpBasico\Array\InicArreglo3\bin\Debug\net8.0\EjemploArray3.deps.json
+C:\Users\ronni\source\repos\CSharpBasico\Array\InicArreglo3\bin\Debug\net8.0\EjemploArray3.runtimeconfig.json
+C:\Users\ronni\source\repos\CSharpBasico\Array\InicArreglo3\bin\Debug\net8.0\EjemploArray3.dll
+C:\Users\ronni\source\repos\CSharpBasico\Array\InicArreglo3\bin\Debug\net8.0\EjemploArray3.pdb
+C:\Users\ronni\source\repos\CSharpBasico\Array\InicArreglo3\obj\Debug\net8.0\EjemploArray3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronni\source\repos\CSharpBasico\Array\InicArreglo3\obj\Debug\net8.0\EjemploArray3.AssemblyInfoInputs.cache
+C:\Users\ronni\source\repos\CSharpBasico\Array\InicArreglo3\obj\Debug\net8.0\EjemploArray3.AssemblyInfo.cs
+C:\Users\ronni\source\repos\CSharpBasico\Array\InicArreglo3\obj\Debug\net8.0\EjemploArray3.csproj.CoreCompileInputs.cache
+C:\Users\ronni\source\repos\CSharpBasico\Array\InicArreglo3\obj\Debug\net8.0\EjemploArray3.sourcelink.json
+C:\Users\ronni\source\repos\CSharpBasico\Array\InicArreglo3\obj\Debug\net8.0\EjemploArray3.dll
+C:\Users\ronni\source\repos\CSharpBasico\Array\InicArreglo3\obj\Debug\net8.0\refint\EjemploArray3.dll
+C:\Users\ronni\source\repos\CSharpBasico\Array\InicArreglo3\obj\Debug\net8.0\EjemploArray3.pdb
+C:\Users\ronni\source\repos\CSharpBasico\Array\InicArreglo3\obj\Debug\net8.0\EjemploArray3.genruntimeconfig.cache
+C:\Users\ronni\source\repos\CSharpBasico\Array\InicArreglo3\obj\Debug\net8.0\ref\EjemploArray3.dll

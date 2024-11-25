@@ -1,0 +1,15 @@
+C:\Users\ronni\source\repos\CSharpBasico\Array\EjemploForEach\bin\Debug\net8.0\EjemploForEach.exe
+C:\Users\ronni\source\repos\CSharpBasico\Array\EjemploForEach\bin\Debug\net8.0\EjemploForEach.deps.json
+C:\Users\ronni\source\repos\CSharpBasico\Array\EjemploForEach\bin\Debug\net8.0\EjemploForEach.runtimeconfig.json
+C:\Users\ronni\source\repos\CSharpBasico\Array\EjemploForEach\bin\Debug\net8.0\EjemploForEach.dll
+C:\Users\ronni\source\repos\CSharpBasico\Array\EjemploForEach\bin\Debug\net8.0\EjemploForEach.pdb
+C:\Users\ronni\source\repos\CSharpBasico\Array\EjemploForEach\obj\Debug\net8.0\EjemploForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronni\source\repos\CSharpBasico\Array\EjemploForEach\obj\Debug\net8.0\EjemploForEach.AssemblyInfoInputs.cache
+C:\Users\ronni\source\repos\CSharpBasico\Array\EjemploForEach\obj\Debug\net8.0\EjemploForEach.AssemblyInfo.cs
+C:\Users\ronni\source\repos\CSharpBasico\Array\EjemploForEach\obj\Debug\net8.0\EjemploForEach.csproj.CoreCompileInputs.cache
+C:\Users\ronni\source\repos\CSharpBasico\Array\EjemploForEach\obj\Debug\net8.0\EjemploForEach.sourcelink.json
+C:\Users\ronni\source\repos\CSharpBasico\Array\EjemploForEach\obj\Debug\net8.0\EjemploForEach.dll
+C:\Users\ronni\source\repos\CSharpBasico\Array\EjemploForEach\obj\Debug\net8.0\refint\EjemploForEach.dll
+C:\Users\ronni\source\repos\CSharpBasico\Array\EjemploForEach\obj\Debug\net8.0\EjemploForEach.pdb
+C:\Users\ronni\source\repos\CSharpBasico\Array\EjemploForEach\obj\Debug\net8.0\EjemploForEach.genruntimeconfig.cache
+C:\Users\ronni\source\repos\CSharpBasico\Array\EjemploForEach\obj\Debug\net8.0\ref\EjemploForEach.dll
