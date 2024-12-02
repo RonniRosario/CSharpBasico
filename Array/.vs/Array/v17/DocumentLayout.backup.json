@@ -3,22 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\ronni\\source\\repos\\CSharpBasico\\Array\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B72E6915-CF3E-4DE3-B868-8355CD910AFF}|EjemploForEach4\\EjemploForEach4.csproj|c:\\users\\ronni\\source\\repos\\csharpbasico\\array\\ejemploforeach4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B72E6915-CF3E-4DE3-B868-8355CD910AFF}|EjemploForEach4\\EjemploForEach4.csproj|solutionrelative:ejemploforeach4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1DEAAC5-7949-454F-9BC5-686BECCD9B0A}|EjemploForEach3\\EjemploForEach3.csproj|c:\\users\\ronni\\source\\repos\\csharpbasico\\array\\ejemploforeach3\\pruebareferenciaarreglo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1DEAAC5-7949-454F-9BC5-686BECCD9B0A}|EjemploForEach3\\EjemploForEach3.csproj|solutionrelative:ejemploforeach3\\pruebareferenciaarreglo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA089501-84BA-49D2-A7FC-44E09AABCC67}|CasoEstudio3\\CasoEstudio3.csproj|c:\\users\\ronni\\source\\repos\\csharpbasico\\array\\casoestudio3\\librocalificaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA089501-84BA-49D2-A7FC-44E09AABCC67}|CasoEstudio3\\CasoEstudio3.csproj|solutionrelative:casoestudio3\\librocalificaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 100,
       "DocumentGroups": [
         {
           "DockedWidth": 313,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -33,34 +29,27 @@
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ronni\\source\\repos\\CSharpBasico\\Array\\EjemploForEach4\\Program.cs",
-              "RelativeDocumentMoniker": "EjemploForEach4\\Program.cs",
-              "ToolTip": "C:\\Users\\ronni\\source\\repos\\CSharpBasico\\Array\\EjemploForEach4\\Program.cs*",
-              "RelativeToolTip": "EjemploForEach4\\Program.cs*",
-              "ViewState": "AgIAABUAAAAAAAAAAADwvykAAABDAAAAAAAAAA==",
+              "Title": "LibroCalificaciones.cs",
+              "DocumentMoniker": "C:\\Users\\ronni\\source\\repos\\CSharpBasico\\Array\\CasoEstudio3\\LibroCalificaciones.cs",
+              "RelativeDocumentMoniker": "CasoEstudio3\\LibroCalificaciones.cs",
+              "ToolTip": "C:\\Users\\ronni\\source\\repos\\CSharpBasico\\Array\\CasoEstudio3\\LibroCalificaciones.cs*",
+              "RelativeToolTip": "CasoEstudio3\\LibroCalificaciones.cs*",
+              "ViewState": "AgIAAG0AAAAAAAAAAADwv4EAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T00:06:58.479Z",
+              "WhenOpened": "2024-12-02T03:21:38.382Z",
               "EditorCaption": ""
-            },
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PruebaReferenciaArreglo.cs",
-              "DocumentMoniker": "C:\\Users\\ronni\\source\\repos\\CSharpBasico\\Array\\EjemploForEach3\\PruebaReferenciaArreglo.cs",
-              "RelativeDocumentMoniker": "EjemploForEach3\\PruebaReferenciaArreglo.cs",
-              "ToolTip": "C:\\Users\\ronni\\source\\repos\\CSharpBasico\\Array\\EjemploForEach3\\PruebaReferenciaArreglo.cs",
-              "RelativeToolTip": "EjemploForEach3\\PruebaReferenciaArreglo.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAAwDgAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T23:30:55.077Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         },

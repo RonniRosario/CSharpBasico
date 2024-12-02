@@ -1,0 +1,14 @@
+C:\Users\ronni\source\repos\TareaBucles\TareaFor3\bin\Debug\net8.0\TareaFor3.exe
+C:\Users\ronni\source\repos\TareaBucles\TareaFor3\bin\Debug\net8.0\TareaFor3.deps.json
+C:\Users\ronni\source\repos\TareaBucles\TareaFor3\bin\Debug\net8.0\TareaFor3.runtimeconfig.json
+C:\Users\ronni\source\repos\TareaBucles\TareaFor3\bin\Debug\net8.0\TareaFor3.dll
+C:\Users\ronni\source\repos\TareaBucles\TareaFor3\bin\Debug\net8.0\TareaFor3.pdb
+C:\Users\ronni\source\repos\TareaBucles\TareaFor3\obj\Debug\net8.0\TareaFor3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronni\source\repos\TareaBucles\TareaFor3\obj\Debug\net8.0\TareaFor3.AssemblyInfoInputs.cache
+C:\Users\ronni\source\repos\TareaBucles\TareaFor3\obj\Debug\net8.0\TareaFor3.AssemblyInfo.cs
+C:\Users\ronni\source\repos\TareaBucles\TareaFor3\obj\Debug\net8.0\TareaFor3.csproj.CoreCompileInputs.cache
+C:\Users\ronni\source\repos\TareaBucles\TareaFor3\obj\Debug\net8.0\TareaFor3.dll
+C:\Users\ronni\source\repos\TareaBucles\TareaFor3\obj\Debug\net8.0\refint\TareaFor3.dll
+C:\Users\ronni\source\repos\TareaBucles\TareaFor3\obj\Debug\net8.0\TareaFor3.pdb
+C:\Users\ronni\source\repos\TareaBucles\TareaFor3\obj\Debug\net8.0\TareaFor3.genruntimeconfig.cache
+C:\Users\ronni\source\repos\TareaBucles\TareaFor3\obj\Debug\net8.0\ref\TareaFor3.dll

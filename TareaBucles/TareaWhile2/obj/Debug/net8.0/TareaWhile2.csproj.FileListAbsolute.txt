@@ -1,0 +1,14 @@
+C:\Users\ronni\source\repos\TareaBucles\TareaWhile2\bin\Debug\net8.0\TareaWhile2.exe
+C:\Users\ronni\source\repos\TareaBucles\TareaWhile2\bin\Debug\net8.0\TareaWhile2.deps.json
+C:\Users\ronni\source\repos\TareaBucles\TareaWhile2\bin\Debug\net8.0\TareaWhile2.runtimeconfig.json
+C:\Users\ronni\source\repos\TareaBucles\TareaWhile2\bin\Debug\net8.0\TareaWhile2.dll
+C:\Users\ronni\source\repos\TareaBucles\TareaWhile2\bin\Debug\net8.0\TareaWhile2.pdb
+C:\Users\ronni\source\repos\TareaBucles\TareaWhile2\obj\Debug\net8.0\TareaWhile2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronni\source\repos\TareaBucles\TareaWhile2\obj\Debug\net8.0\TareaWhile2.AssemblyInfoInputs.cache
+C:\Users\ronni\source\repos\TareaBucles\TareaWhile2\obj\Debug\net8.0\TareaWhile2.AssemblyInfo.cs
+C:\Users\ronni\source\repos\TareaBucles\TareaWhile2\obj\Debug\net8.0\TareaWhile2.csproj.CoreCompileInputs.cache
+C:\Users\ronni\source\repos\TareaBucles\TareaWhile2\obj\Debug\net8.0\TareaWhile2.dll
+C:\Users\ronni\source\repos\TareaBucles\TareaWhile2\obj\Debug\net8.0\refint\TareaWhile2.dll
+C:\Users\ronni\source\repos\TareaBucles\TareaWhile2\obj\Debug\net8.0\TareaWhile2.pdb
+C:\Users\ronni\source\repos\TareaBucles\TareaWhile2\obj\Debug\net8.0\TareaWhile2.genruntimeconfig.cache
+C:\Users\ronni\source\repos\TareaBucles\TareaWhile2\obj\Debug\net8.0\ref\TareaWhile2.dll

@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ronni\\source\\repos\\CSharpBasico\\Array\\EncuestaEstudiantil\\EjemploArray7.csproj": {}
+    "C:\\Users\\ronni\\Source\\Repos\\CSharpBasico\\Array\\EncuestaEstudiantil\\EjemploArray7.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ronni\\source\\repos\\CSharpBasico\\Array\\EncuestaEstudiantil\\EjemploArray7.csproj": {
+    "C:\\Users\\ronni\\Source\\Repos\\CSharpBasico\\Array\\EncuestaEstudiantil\\EjemploArray7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ronni\\source\\repos\\CSharpBasico\\Array\\EncuestaEstudiantil\\EjemploArray7.csproj",
+        "projectUniqueName": "C:\\Users\\ronni\\Source\\Repos\\CSharpBasico\\Array\\EncuestaEstudiantil\\EjemploArray7.csproj",
         "projectName": "EjemploArray7",
-        "projectPath": "C:\\Users\\ronni\\source\\repos\\CSharpBasico\\Array\\EncuestaEstudiantil\\EjemploArray7.csproj",
+        "projectPath": "C:\\Users\\ronni\\Source\\Repos\\CSharpBasico\\Array\\EncuestaEstudiantil\\EjemploArray7.csproj",
         "packagesPath": "C:\\Users\\ronni\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\ronni\\source\\repos\\CSharpBasico\\Array\\EncuestaEstudiantil\\obj\\",
         "projectStyle": "PackageReference",

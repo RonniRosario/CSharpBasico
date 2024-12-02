@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ronni\\source\\repos\\CSharpBasico\\practicaClase\\practicaClase.csproj": {}
+    "C:\\Users\\ronni\\Source\\Repos\\CSharpBasico\\practicaClase\\practicaClase.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ronni\\source\\repos\\CSharpBasico\\practicaClase\\practicaClase.csproj": {
+    "C:\\Users\\ronni\\Source\\Repos\\CSharpBasico\\practicaClase\\practicaClase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ronni\\source\\repos\\CSharpBasico\\practicaClase\\practicaClase.csproj",
+        "projectUniqueName": "C:\\Users\\ronni\\Source\\Repos\\CSharpBasico\\practicaClase\\practicaClase.csproj",
         "projectName": "practicaClase",
-        "projectPath": "C:\\Users\\ronni\\source\\repos\\CSharpBasico\\practicaClase\\practicaClase.csproj",
+        "projectPath": "C:\\Users\\ronni\\Source\\Repos\\CSharpBasico\\practicaClase\\practicaClase.csproj",
         "packagesPath": "C:\\Users\\ronni\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\ronni\\source\\repos\\CSharpBasico\\practicaClase\\obj\\",
         "projectStyle": "PackageReference",

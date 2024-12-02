@@ -1,0 +1,15 @@
+C:\Users\ronni\source\repos\CSharpBasico\Array\TareaArray\obj\Debug\net8.0\TareaArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronni\source\repos\CSharpBasico\Array\TareaArray\obj\Debug\net8.0\TareaArray.AssemblyInfoInputs.cache
+C:\Users\ronni\source\repos\CSharpBasico\Array\TareaArray\obj\Debug\net8.0\TareaArray.AssemblyInfo.cs
+C:\Users\ronni\source\repos\CSharpBasico\Array\TareaArray\obj\Debug\net8.0\TareaArray.csproj.CoreCompileInputs.cache
+C:\Users\ronni\source\repos\CSharpBasico\Array\TareaArray\obj\Debug\net8.0\TareaArray.sourcelink.json
+C:\Users\ronni\source\repos\CSharpBasico\Array\TareaArray\bin\Debug\net8.0\TareaArray.exe
+C:\Users\ronni\Source\Repos\CSharpBasico\Array\TareaArray\bin\Debug\net8.0\TareaArray.deps.json
+C:\Users\ronni\Source\Repos\CSharpBasico\Array\TareaArray\bin\Debug\net8.0\TareaArray.runtimeconfig.json
+C:\Users\ronni\source\repos\CSharpBasico\Array\TareaArray\bin\Debug\net8.0\TareaArray.dll
+C:\Users\ronni\source\repos\CSharpBasico\Array\TareaArray\bin\Debug\net8.0\TareaArray.pdb
+C:\Users\ronni\source\repos\CSharpBasico\Array\TareaArray\obj\Debug\net8.0\TareaArray.dll
+C:\Users\ronni\source\repos\CSharpBasico\Array\TareaArray\obj\Debug\net8.0\refint\TareaArray.dll
+C:\Users\ronni\source\repos\CSharpBasico\Array\TareaArray\obj\Debug\net8.0\TareaArray.pdb
+C:\Users\ronni\Source\Repos\CSharpBasico\Array\TareaArray\obj\Debug\net8.0\TareaArray.genruntimeconfig.cache
+C:\Users\ronni\Source\Repos\CSharpBasico\Array\TareaArray\obj\Debug\net8.0\ref\TareaArray.dll

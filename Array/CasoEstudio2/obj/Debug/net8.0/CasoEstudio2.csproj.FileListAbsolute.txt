@@ -1,0 +1,15 @@
+C:\Users\ronni\source\repos\CSharpBasico\Array\CasoEstudio2\bin\Debug\net8.0\CasoEstudio2.exe
+C:\Users\ronni\source\repos\CSharpBasico\Array\CasoEstudio2\bin\Debug\net8.0\CasoEstudio2.deps.json
+C:\Users\ronni\source\repos\CSharpBasico\Array\CasoEstudio2\bin\Debug\net8.0\CasoEstudio2.runtimeconfig.json
+C:\Users\ronni\source\repos\CSharpBasico\Array\CasoEstudio2\bin\Debug\net8.0\CasoEstudio2.dll
+C:\Users\ronni\source\repos\CSharpBasico\Array\CasoEstudio2\bin\Debug\net8.0\CasoEstudio2.pdb
+C:\Users\ronni\source\repos\CSharpBasico\Array\CasoEstudio2\obj\Debug\net8.0\CasoEstudio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronni\source\repos\CSharpBasico\Array\CasoEstudio2\obj\Debug\net8.0\CasoEstudio2.AssemblyInfoInputs.cache
+C:\Users\ronni\source\repos\CSharpBasico\Array\CasoEstudio2\obj\Debug\net8.0\CasoEstudio2.AssemblyInfo.cs
+C:\Users\ronni\source\repos\CSharpBasico\Array\CasoEstudio2\obj\Debug\net8.0\CasoEstudio2.csproj.CoreCompileInputs.cache
+C:\Users\ronni\source\repos\CSharpBasico\Array\CasoEstudio2\obj\Debug\net8.0\CasoEstudio2.sourcelink.json
+C:\Users\ronni\source\repos\CSharpBasico\Array\CasoEstudio2\obj\Debug\net8.0\CasoEstudio2.dll
+C:\Users\ronni\source\repos\CSharpBasico\Array\CasoEstudio2\obj\Debug\net8.0\refint\CasoEstudio2.dll
+C:\Users\ronni\source\repos\CSharpBasico\Array\CasoEstudio2\obj\Debug\net8.0\CasoEstudio2.pdb
+C:\Users\ronni\source\repos\CSharpBasico\Array\CasoEstudio2\obj\Debug\net8.0\CasoEstudio2.genruntimeconfig.cache
+C:\Users\ronni\source\repos\CSharpBasico\Array\CasoEstudio2\obj\Debug\net8.0\ref\CasoEstudio2.dll

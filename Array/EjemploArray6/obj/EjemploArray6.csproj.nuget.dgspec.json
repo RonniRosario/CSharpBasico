@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ronni\\source\\repos\\CSharpBasico\\Array\\EjemploArray6\\EjemploArray6.csproj": {}
+    "C:\\Users\\ronni\\Source\\Repos\\CSharpBasico\\Array\\EjemploArray6\\EjemploArray6.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ronni\\source\\repos\\CSharpBasico\\Array\\EjemploArray6\\EjemploArray6.csproj": {
+    "C:\\Users\\ronni\\Source\\Repos\\CSharpBasico\\Array\\EjemploArray6\\EjemploArray6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ronni\\source\\repos\\CSharpBasico\\Array\\EjemploArray6\\EjemploArray6.csproj",
+        "projectUniqueName": "C:\\Users\\ronni\\Source\\Repos\\CSharpBasico\\Array\\EjemploArray6\\EjemploArray6.csproj",
         "projectName": "EjemploArray6",
-        "projectPath": "C:\\Users\\ronni\\source\\repos\\CSharpBasico\\Array\\EjemploArray6\\EjemploArray6.csproj",
+        "projectPath": "C:\\Users\\ronni\\Source\\Repos\\CSharpBasico\\Array\\EjemploArray6\\EjemploArray6.csproj",
         "packagesPath": "C:\\Users\\ronni\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\ronni\\source\\repos\\CSharpBasico\\Array\\EjemploArray6\\obj\\",
         "projectStyle": "PackageReference",

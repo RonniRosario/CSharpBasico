@@ -1,0 +1,15 @@
+C:\Users\ronni\source\repos\csbsol\CSB\Tarea2\calcularPrecioArticulo\bin\Debug\net8.0\calcularPrecioArticulo.exe
+C:\Users\ronni\source\repos\csbsol\CSB\Tarea2\calcularPrecioArticulo\bin\Debug\net8.0\calcularPrecioArticulo.deps.json
+C:\Users\ronni\source\repos\csbsol\CSB\Tarea2\calcularPrecioArticulo\bin\Debug\net8.0\calcularPrecioArticulo.runtimeconfig.json
+C:\Users\ronni\source\repos\csbsol\CSB\Tarea2\calcularPrecioArticulo\bin\Debug\net8.0\calcularPrecioArticulo.dll
+C:\Users\ronni\source\repos\csbsol\CSB\Tarea2\calcularPrecioArticulo\bin\Debug\net8.0\calcularPrecioArticulo.pdb
+C:\Users\ronni\source\repos\csbsol\CSB\Tarea2\calcularPrecioArticulo\obj\Debug\net8.0\calcularPrecioArticulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronni\source\repos\csbsol\CSB\Tarea2\calcularPrecioArticulo\obj\Debug\net8.0\calcularPrecioArticulo.AssemblyInfoInputs.cache
+C:\Users\ronni\source\repos\csbsol\CSB\Tarea2\calcularPrecioArticulo\obj\Debug\net8.0\calcularPrecioArticulo.AssemblyInfo.cs
+C:\Users\ronni\source\repos\csbsol\CSB\Tarea2\calcularPrecioArticulo\obj\Debug\net8.0\calcularPrecioArticulo.csproj.CoreCompileInputs.cache
+C:\Users\ronni\source\repos\csbsol\CSB\Tarea2\calcularPrecioArticulo\obj\Debug\net8.0\calcularPrecioArticulo.sourcelink.json
+C:\Users\ronni\source\repos\csbsol\CSB\Tarea2\calcularPrecioArticulo\obj\Debug\net8.0\calcularPrecioArticulo.dll
+C:\Users\ronni\source\repos\csbsol\CSB\Tarea2\calcularPrecioArticulo\obj\Debug\net8.0\refint\calcularPrecioArticulo.dll
+C:\Users\ronni\source\repos\csbsol\CSB\Tarea2\calcularPrecioArticulo\obj\Debug\net8.0\calcularPrecioArticulo.pdb
+C:\Users\ronni\source\repos\csbsol\CSB\Tarea2\calcularPrecioArticulo\obj\Debug\net8.0\calcularPrecioArticulo.genruntimeconfig.cache
+C:\Users\ronni\source\repos\csbsol\CSB\Tarea2\calcularPrecioArticulo\obj\Debug\net8.0\ref\calcularPrecioArticulo.dll

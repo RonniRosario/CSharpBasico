@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ronni\\source\\repos\\CSharpBasico\\Array\\EjemploForEach2\\EjemploForEach2.csproj": {}
+    "C:\\Users\\ronni\\Source\\Repos\\CSharpBasico\\Array\\EjemploForEach2\\EjemploForEach2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ronni\\source\\repos\\CSharpBasico\\Array\\EjemploForEach2\\EjemploForEach2.csproj": {
+    "C:\\Users\\ronni\\Source\\Repos\\CSharpBasico\\Array\\EjemploForEach2\\EjemploForEach2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ronni\\source\\repos\\CSharpBasico\\Array\\EjemploForEach2\\EjemploForEach2.csproj",
+        "projectUniqueName": "C:\\Users\\ronni\\Source\\Repos\\CSharpBasico\\Array\\EjemploForEach2\\EjemploForEach2.csproj",
         "projectName": "EjemploForEach2",
-        "projectPath": "C:\\Users\\ronni\\source\\repos\\CSharpBasico\\Array\\EjemploForEach2\\EjemploForEach2.csproj",
+        "projectPath": "C:\\Users\\ronni\\Source\\Repos\\CSharpBasico\\Array\\EjemploForEach2\\EjemploForEach2.csproj",
         "packagesPath": "C:\\Users\\ronni\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\ronni\\source\\repos\\CSharpBasico\\Array\\EjemploForEach2\\obj\\",
         "projectStyle": "PackageReference",

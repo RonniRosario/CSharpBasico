@@ -1,0 +1,14 @@
+C:\Users\ronni\source\repos\TareaBucles\TareaTri\obj\Debug\net8.0\TareaTri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronni\source\repos\TareaBucles\TareaTri\obj\Debug\net8.0\TareaTri.AssemblyInfoInputs.cache
+C:\Users\ronni\source\repos\TareaBucles\TareaTri\obj\Debug\net8.0\TareaTri.AssemblyInfo.cs
+C:\Users\ronni\source\repos\TareaBucles\TareaTri\obj\Debug\net8.0\TareaTri.csproj.CoreCompileInputs.cache
+C:\Users\ronni\source\repos\TareaBucles\TareaTri\bin\Debug\net8.0\TareaTri.exe
+C:\Users\ronni\source\repos\TareaBucles\TareaTri\bin\Debug\net8.0\TareaTri.deps.json
+C:\Users\ronni\source\repos\TareaBucles\TareaTri\bin\Debug\net8.0\TareaTri.runtimeconfig.json
+C:\Users\ronni\source\repos\TareaBucles\TareaTri\bin\Debug\net8.0\TareaTri.dll
+C:\Users\ronni\source\repos\TareaBucles\TareaTri\bin\Debug\net8.0\TareaTri.pdb
+C:\Users\ronni\source\repos\TareaBucles\TareaTri\obj\Debug\net8.0\TareaTri.dll
+C:\Users\ronni\source\repos\TareaBucles\TareaTri\obj\Debug\net8.0\refint\TareaTri.dll
+C:\Users\ronni\source\repos\TareaBucles\TareaTri\obj\Debug\net8.0\TareaTri.pdb
+C:\Users\ronni\source\repos\TareaBucles\TareaTri\obj\Debug\net8.0\TareaTri.genruntimeconfig.cache
+C:\Users\ronni\source\repos\TareaBucles\TareaTri\obj\Debug\net8.0\ref\TareaTri.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ronni\\source\\repos\\Tarea3\\EjercicioClase\\EjercicioClase.csproj": {}
+    "C:\\Users\\ronni\\Source\\Repos\\CSharpBasico\\Tarea3\\EjercicioClase\\EjercicioClase.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ronni\\source\\repos\\Tarea3\\EjercicioClase\\EjercicioClase.csproj": {
+    "C:\\Users\\ronni\\Source\\Repos\\CSharpBasico\\Tarea3\\EjercicioClase\\EjercicioClase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ronni\\source\\repos\\Tarea3\\EjercicioClase\\EjercicioClase.csproj",
+        "projectUniqueName": "C:\\Users\\ronni\\Source\\Repos\\CSharpBasico\\Tarea3\\EjercicioClase\\EjercicioClase.csproj",
         "projectName": "EjercicioClase",
-        "projectPath": "C:\\Users\\ronni\\source\\repos\\Tarea3\\EjercicioClase\\EjercicioClase.csproj",
+        "projectPath": "C:\\Users\\ronni\\Source\\Repos\\CSharpBasico\\Tarea3\\EjercicioClase\\EjercicioClase.csproj",
         "packagesPath": "C:\\Users\\ronni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ronni\\source\\repos\\Tarea3\\EjercicioClase\\obj\\",
+        "outputPath": "C:\\Users\\ronni\\Source\\Repos\\CSharpBasico\\Tarea3\\EjercicioClase\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ronni\\AppData\\Roaming\\NuGet\\NuGet.Config",
