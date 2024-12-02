@@ -1,0 +1,14 @@
+C:\Users\ronni\source\repos\ResumenClasesObjetos\TareaClases\bin\Debug\net8.0\Ejemplo1.exe
+C:\Users\ronni\source\repos\ResumenClasesObjetos\TareaClases\bin\Debug\net8.0\Ejemplo1.deps.json
+C:\Users\ronni\source\repos\ResumenClasesObjetos\TareaClases\bin\Debug\net8.0\Ejemplo1.runtimeconfig.json
+C:\Users\ronni\source\repos\ResumenClasesObjetos\TareaClases\bin\Debug\net8.0\Ejemplo1.dll
+C:\Users\ronni\source\repos\ResumenClasesObjetos\TareaClases\bin\Debug\net8.0\Ejemplo1.pdb
+C:\Users\ronni\source\repos\ResumenClasesObjetos\TareaClases\obj\Debug\net8.0\Ejemplo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronni\source\repos\ResumenClasesObjetos\TareaClases\obj\Debug\net8.0\Ejemplo1.AssemblyInfoInputs.cache
+C:\Users\ronni\source\repos\ResumenClasesObjetos\TareaClases\obj\Debug\net8.0\Ejemplo1.AssemblyInfo.cs
+C:\Users\ronni\source\repos\ResumenClasesObjetos\TareaClases\obj\Debug\net8.0\Ejemplo1.csproj.CoreCompileInputs.cache
+C:\Users\ronni\source\repos\ResumenClasesObjetos\TareaClases\obj\Debug\net8.0\Ejemplo1.dll
+C:\Users\ronni\source\repos\ResumenClasesObjetos\TareaClases\obj\Debug\net8.0\refint\Ejemplo1.dll
+C:\Users\ronni\source\repos\ResumenClasesObjetos\TareaClases\obj\Debug\net8.0\Ejemplo1.pdb
+C:\Users\ronni\source\repos\ResumenClasesObjetos\TareaClases\obj\Debug\net8.0\Ejemplo1.genruntimeconfig.cache
+C:\Users\ronni\source\repos\ResumenClasesObjetos\TareaClases\obj\Debug\net8.0\ref\Ejemplo1.dll

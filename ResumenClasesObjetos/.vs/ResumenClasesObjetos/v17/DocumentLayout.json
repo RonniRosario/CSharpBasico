@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ronni\\source\\repos\\ResumenClasesObjetos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5729F70D-C0BA-495E-BDA3-234723C1E446}|Ejemplo5\\Ejemplo5.csproj|c:\\users\\ronni\\source\\repos\\resumenclasesobjetos\\ejemplo5\\pruebacuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5729F70D-C0BA-495E-BDA3-234723C1E446}|Ejemplo5\\Ejemplo5.csproj|solutionrelative:ejemplo5\\pruebacuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5729F70D-C0BA-495E-BDA3-234723C1E446}|Ejemplo5\\Ejemplo5.csproj|c:\\users\\ronni\\source\\repos\\resumenclasesobjetos\\ejemplo5\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5729F70D-C0BA-495E-BDA3-234723C1E446}|Ejemplo5\\Ejemplo5.csproj|solutionrelative:ejemplo5\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 313,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PruebaCuenta.cs",
+              "DocumentMoniker": "C:\\Users\\ronni\\source\\repos\\ResumenClasesObjetos\\Ejemplo5\\PruebaCuenta.cs",
+              "RelativeDocumentMoniker": "Ejemplo5\\PruebaCuenta.cs",
+              "ToolTip": "C:\\Users\\ronni\\source\\repos\\ResumenClasesObjetos\\Ejemplo5\\PruebaCuenta.cs*",
+              "RelativeToolTip": "Ejemplo5\\PruebaCuenta.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAUwBwAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T23:06:24.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cuenta.cs",
+              "DocumentMoniker": "C:\\Users\\ronni\\source\\repos\\ResumenClasesObjetos\\Ejemplo5\\Cuenta.cs",
+              "RelativeDocumentMoniker": "Ejemplo5\\Cuenta.cs",
+              "ToolTip": "C:\\Users\\ronni\\source\\repos\\ResumenClasesObjetos\\Ejemplo5\\Cuenta.cs",
+              "RelativeToolTip": "Ejemplo5\\Cuenta.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T22:57:52.857Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 227,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f4e46f1e-cf83-40aa-b568-a627394bc994}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

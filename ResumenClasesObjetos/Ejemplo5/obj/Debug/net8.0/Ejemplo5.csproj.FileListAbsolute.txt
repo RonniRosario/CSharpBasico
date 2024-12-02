@@ -1,0 +1,14 @@
+C:\Users\ronni\source\repos\ResumenClasesObjetos\Ejemplo5\bin\Debug\net8.0\Ejemplo5.exe
+C:\Users\ronni\source\repos\ResumenClasesObjetos\Ejemplo5\bin\Debug\net8.0\Ejemplo5.deps.json
+C:\Users\ronni\source\repos\ResumenClasesObjetos\Ejemplo5\bin\Debug\net8.0\Ejemplo5.runtimeconfig.json
+C:\Users\ronni\source\repos\ResumenClasesObjetos\Ejemplo5\bin\Debug\net8.0\Ejemplo5.dll
+C:\Users\ronni\source\repos\ResumenClasesObjetos\Ejemplo5\bin\Debug\net8.0\Ejemplo5.pdb
+C:\Users\ronni\source\repos\ResumenClasesObjetos\Ejemplo5\obj\Debug\net8.0\Ejemplo5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronni\source\repos\ResumenClasesObjetos\Ejemplo5\obj\Debug\net8.0\Ejemplo5.AssemblyInfoInputs.cache
+C:\Users\ronni\source\repos\ResumenClasesObjetos\Ejemplo5\obj\Debug\net8.0\Ejemplo5.AssemblyInfo.cs
+C:\Users\ronni\source\repos\ResumenClasesObjetos\Ejemplo5\obj\Debug\net8.0\Ejemplo5.csproj.CoreCompileInputs.cache
+C:\Users\ronni\source\repos\ResumenClasesObjetos\Ejemplo5\obj\Debug\net8.0\Ejemplo5.dll
+C:\Users\ronni\source\repos\ResumenClasesObjetos\Ejemplo5\obj\Debug\net8.0\refint\Ejemplo5.dll
+C:\Users\ronni\source\repos\ResumenClasesObjetos\Ejemplo5\obj\Debug\net8.0\Ejemplo5.pdb
+C:\Users\ronni\source\repos\ResumenClasesObjetos\Ejemplo5\obj\Debug\net8.0\Ejemplo5.genruntimeconfig.cache
+C:\Users\ronni\source\repos\ResumenClasesObjetos\Ejemplo5\obj\Debug\net8.0\ref\Ejemplo5.dll
