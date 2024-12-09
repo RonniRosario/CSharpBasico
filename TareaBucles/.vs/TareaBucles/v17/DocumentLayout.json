@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ronni\\source\\repos\\TareaBucles\\",
+  "WorkspaceRootPath": "C:\\Users\\ronni\\source\\repos\\CSharpBasico\\TareaBucles\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B3AD2A04-8CA0-4D80-8BA0-B47C248FA15E}|TareaTri\\TareaTri.csproj|c:\\users\\ronni\\source\\repos\\tareabucles\\tareatri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3AD2A04-8CA0-4D80-8BA0-B47C248FA15E}|TareaTri\\TareaTri.csproj|solutionrelative:tareatri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B3AD2A04-8CA0-4D80-8BA0-B47C248FA15E}|TareaTri\\TareaTri.csproj|c:\\users\\ronni\\source\\repos\\csharpbasico\\tareabucles\\tareatri\\areatri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3AD2A04-8CA0-4D80-8BA0-B47C248FA15E}|TareaTri\\TareaTri.csproj|solutionrelative:tareatri\\areatri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3AD2A04-8CA0-4D80-8BA0-B47C248FA15E}|TareaTri\\TareaTri.csproj|c:\\users\\ronni\\source\\repos\\tareabucles\\tareatri\\areatri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3AD2A04-8CA0-4D80-8BA0-B47C248FA15E}|TareaTri\\TareaTri.csproj|solutionrelative:tareatri\\areatri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B3AD2A04-8CA0-4D80-8BA0-B47C248FA15E}|TareaTri\\TareaTri.csproj|c:\\users\\ronni\\source\\repos\\csharpbasico\\tareabucles\\tareatri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3AD2A04-8CA0-4D80-8BA0-B47C248FA15E}|TareaTri\\TareaTri.csproj|solutionrelative:tareatri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 313,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,24 +38,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "AreaTri.cs",
-              "DocumentMoniker": "C:\\Users\\ronni\\source\\repos\\TareaBucles\\TareaTri\\AreaTri.cs",
+              "DocumentMoniker": "C:\\Users\\ronni\\source\\repos\\CSharpBasico\\TareaBucles\\TareaTri\\AreaTri.cs",
               "RelativeDocumentMoniker": "TareaTri\\AreaTri.cs",
-              "ToolTip": "C:\\Users\\ronni\\source\\repos\\TareaBucles\\TareaTri\\AreaTri.cs",
-              "RelativeToolTip": "TareaTri\\AreaTri.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAQwE8AAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ronni\\source\\repos\\CSharpBasico\\TareaBucles\\TareaTri\\AreaTri.cs*",
+              "RelativeToolTip": "TareaTri\\AreaTri.cs*",
+              "ViewState": "AgIAADoAAAAAAAAAAAAYwEkAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-22T20:30:07.795Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ronni\\source\\repos\\TareaBucles\\TareaTri\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ronni\\source\\repos\\CSharpBasico\\TareaBucles\\TareaTri\\Program.cs",
               "RelativeDocumentMoniker": "TareaTri\\Program.cs",
-              "ToolTip": "C:\\Users\\ronni\\source\\repos\\TareaBucles\\TareaTri\\Program.cs",
+              "ToolTip": "C:\\Users\\ronni\\source\\repos\\CSharpBasico\\TareaBucles\\TareaTri\\Program.cs",
               "RelativeToolTip": "TareaTri\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -65,7 +65,7 @@
           ]
         },
         {
-          "DockedWidth": 227,
+          "DockedWidth": 200,
           "SelectedChildIndex": -1,
           "Children": [
             {

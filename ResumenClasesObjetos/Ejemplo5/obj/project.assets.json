@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ronni\\source\\repos\\ResumenClasesObjetos\\Ejemplo5\\Ejemplo5.csproj",
+      "projectUniqueName": "C:\\Users\\ronni\\source\\repos\\CSharpBasico\\ResumenClasesObjetos\\Ejemplo5\\Ejemplo5.csproj",
       "projectName": "Ejemplo5",
-      "projectPath": "C:\\Users\\ronni\\source\\repos\\ResumenClasesObjetos\\Ejemplo5\\Ejemplo5.csproj",
+      "projectPath": "C:\\Users\\ronni\\source\\repos\\CSharpBasico\\ResumenClasesObjetos\\Ejemplo5\\Ejemplo5.csproj",
       "packagesPath": "C:\\Users\\ronni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ronni\\source\\repos\\ResumenClasesObjetos\\Ejemplo5\\obj\\",
+      "outputPath": "C:\\Users\\ronni\\source\\repos\\CSharpBasico\\ResumenClasesObjetos\\Ejemplo5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ronni\\AppData\\Roaming\\NuGet\\NuGet.Config",

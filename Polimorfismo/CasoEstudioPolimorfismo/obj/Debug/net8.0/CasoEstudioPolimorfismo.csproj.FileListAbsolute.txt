@@ -1,0 +1,15 @@
+C:\Users\ronni\source\repos\CSharpBasico\Polimorfismo\CasoEstudioPolimorfismo\obj\Debug\net8.0\CasoEstudioPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronni\source\repos\CSharpBasico\Polimorfismo\CasoEstudioPolimorfismo\obj\Debug\net8.0\CasoEstudioPolimorfismo.AssemblyInfoInputs.cache
+C:\Users\ronni\source\repos\CSharpBasico\Polimorfismo\CasoEstudioPolimorfismo\obj\Debug\net8.0\CasoEstudioPolimorfismo.AssemblyInfo.cs
+C:\Users\ronni\source\repos\CSharpBasico\Polimorfismo\CasoEstudioPolimorfismo\obj\Debug\net8.0\CasoEstudioPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\ronni\source\repos\CSharpBasico\Polimorfismo\CasoEstudioPolimorfismo\obj\Debug\net8.0\CasoEstudioPolimorfismo.sourcelink.json
+C:\Users\ronni\source\repos\CSharpBasico\Polimorfismo\CasoEstudioPolimorfismo\bin\Debug\net8.0\CasoEstudioPolimorfismo.exe
+C:\Users\ronni\source\repos\CSharpBasico\Polimorfismo\CasoEstudioPolimorfismo\bin\Debug\net8.0\CasoEstudioPolimorfismo.deps.json
+C:\Users\ronni\source\repos\CSharpBasico\Polimorfismo\CasoEstudioPolimorfismo\bin\Debug\net8.0\CasoEstudioPolimorfismo.runtimeconfig.json
+C:\Users\ronni\source\repos\CSharpBasico\Polimorfismo\CasoEstudioPolimorfismo\bin\Debug\net8.0\CasoEstudioPolimorfismo.dll
+C:\Users\ronni\source\repos\CSharpBasico\Polimorfismo\CasoEstudioPolimorfismo\bin\Debug\net8.0\CasoEstudioPolimorfismo.pdb
+C:\Users\ronni\source\repos\CSharpBasico\Polimorfismo\CasoEstudioPolimorfismo\obj\Debug\net8.0\CasoEstudioPolimorfismo.dll
+C:\Users\ronni\source\repos\CSharpBasico\Polimorfismo\CasoEstudioPolimorfismo\obj\Debug\net8.0\refint\CasoEstudioPolimorfismo.dll
+C:\Users\ronni\source\repos\CSharpBasico\Polimorfismo\CasoEstudioPolimorfismo\obj\Debug\net8.0\CasoEstudioPolimorfismo.pdb
+C:\Users\ronni\source\repos\CSharpBasico\Polimorfismo\CasoEstudioPolimorfismo\obj\Debug\net8.0\CasoEstudioPolimorfismo.genruntimeconfig.cache
+C:\Users\ronni\source\repos\CSharpBasico\Polimorfismo\CasoEstudioPolimorfismo\obj\Debug\net8.0\ref\CasoEstudioPolimorfismo.dll

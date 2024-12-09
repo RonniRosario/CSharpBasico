@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ronni\\source\\repos\\CSharpBasico\\Array\\TareaArray3\\TareaArray3.csproj": {}
+    "C:\\Users\\ronni\\Source\\Repos\\CSharpBasico\\Array\\TareaArray3\\TareaArray3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ronni\\source\\repos\\CSharpBasico\\Array\\TareaArray3\\TareaArray3.csproj": {
+    "C:\\Users\\ronni\\Source\\Repos\\CSharpBasico\\Array\\TareaArray3\\TareaArray3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ronni\\source\\repos\\CSharpBasico\\Array\\TareaArray3\\TareaArray3.csproj",
+        "projectUniqueName": "C:\\Users\\ronni\\Source\\Repos\\CSharpBasico\\Array\\TareaArray3\\TareaArray3.csproj",
         "projectName": "TareaArray3",
-        "projectPath": "C:\\Users\\ronni\\source\\repos\\CSharpBasico\\Array\\TareaArray3\\TareaArray3.csproj",
+        "projectPath": "C:\\Users\\ronni\\Source\\Repos\\CSharpBasico\\Array\\TareaArray3\\TareaArray3.csproj",
         "packagesPath": "C:\\Users\\ronni\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\ronni\\source\\repos\\CSharpBasico\\Array\\TareaArray3\\obj\\",
         "projectStyle": "PackageReference",

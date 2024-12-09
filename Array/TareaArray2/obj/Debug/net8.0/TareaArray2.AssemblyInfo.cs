@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TareaArray2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46f897f1de3ed63dfb5f81800ce3b1a0cadb5931")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a182efcc852842c1749f51d6c567365a0ed50d3")]
 [assembly: System.Reflection.AssemblyProductAttribute("TareaArray2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TareaArray2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

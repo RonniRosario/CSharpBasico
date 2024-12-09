@@ -70,8 +70,8 @@ namespace TareaTri
         {
             if (!double.TryParse(valor, out variableAsignada))
             {
-                Console.WriteLine($"{message}");
-                throw new ArgumentException("Valor invalido");
+                
+                throw new ArgumentException(message);
             }
         }
     }

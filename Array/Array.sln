@@ -31,13 +31,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TareaArray", "TareaArray\Ta
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TareaArray2", "TareaArray2\TareaArray2.csproj", "{355167BE-D7E8-49D9-980B-5146BDF3D148}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TareaArray3", "TareaArray3\TareaArray3.csproj", "{23984B0F-5ABF-4EC8-9BE8-68B32CC5F97F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TareaArray3", "TareaArray3\TareaArray3.csproj", "{23984B0F-5ABF-4EC8-9BE8-68B32CC5F97F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CasoEstudio1", "CasoEstudio1\CasoEstudio1.csproj", "{28FC252F-6768-4C2C-85E4-86CD0CEBEAE7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CasoEstudio1", "CasoEstudio1\CasoEstudio1.csproj", "{28FC252F-6768-4C2C-85E4-86CD0CEBEAE7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CasoEstudio2", "CasoEstudio2\CasoEstudio2.csproj", "{D1904B68-E93B-4C11-907C-9380813CFAFF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CasoEstudio2", "CasoEstudio2\CasoEstudio2.csproj", "{D1904B68-E93B-4C11-907C-9380813CFAFF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CasoEstudio3", "CasoEstudio3\CasoEstudio3.csproj", "{AA089501-84BA-49D2-A7FC-44E09AABCC67}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CasoEstudio3", "CasoEstudio3\CasoEstudio3.csproj", "{AA089501-84BA-49D2-A7FC-44E09AABCC67}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

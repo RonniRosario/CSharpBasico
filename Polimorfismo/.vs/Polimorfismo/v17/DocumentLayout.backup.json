@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ronni\\source\\repos\\CSharpBasico\\Polimorfismo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EB352F1-80FD-48E4-9318-FFC3FDAABD02}|CasoEstudioPolimorfismo\\CasoEstudioPolimorfismo.csproj|c:\\users\\ronni\\source\\repos\\csharpbasico\\polimorfismo\\casoestudiopolimorfismo\\pruebasistemanomina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EB352F1-80FD-48E4-9318-FFC3FDAABD02}|CasoEstudioPolimorfismo\\CasoEstudioPolimorfismo.csproj|solutionrelative:casoestudiopolimorfismo\\pruebasistemanomina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EB352F1-80FD-48E4-9318-FFC3FDAABD02}|CasoEstudioPolimorfismo\\CasoEstudioPolimorfismo.csproj|c:\\users\\ronni\\source\\repos\\csharpbasico\\polimorfismo\\casoestudiopolimorfismo\\empleadobasemascomision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EB352F1-80FD-48E4-9318-FFC3FDAABD02}|CasoEstudioPolimorfismo\\CasoEstudioPolimorfismo.csproj|solutionrelative:casoestudiopolimorfismo\\empleadobasemascomision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EB352F1-80FD-48E4-9318-FFC3FDAABD02}|CasoEstudioPolimorfismo\\CasoEstudioPolimorfismo.csproj|c:\\users\\ronni\\source\\repos\\csharpbasico\\polimorfismo\\casoestudiopolimorfismo\\empleadoporcomision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EB352F1-80FD-48E4-9318-FFC3FDAABD02}|CasoEstudioPolimorfismo\\CasoEstudioPolimorfismo.csproj|solutionrelative:casoestudiopolimorfismo\\empleadoporcomision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EB352F1-80FD-48E4-9318-FFC3FDAABD02}|CasoEstudioPolimorfismo\\CasoEstudioPolimorfismo.csproj|c:\\users\\ronni\\source\\repos\\csharpbasico\\polimorfismo\\casoestudiopolimorfismo\\empleadoporhoras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EB352F1-80FD-48E4-9318-FFC3FDAABD02}|CasoEstudioPolimorfismo\\CasoEstudioPolimorfismo.csproj|solutionrelative:casoestudiopolimorfismo\\empleadoporhoras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EB352F1-80FD-48E4-9318-FFC3FDAABD02}|CasoEstudioPolimorfismo\\CasoEstudioPolimorfismo.csproj|c:\\users\\ronni\\source\\repos\\csharpbasico\\polimorfismo\\casoestudiopolimorfismo\\empleadoasalariado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EB352F1-80FD-48E4-9318-FFC3FDAABD02}|CasoEstudioPolimorfismo\\CasoEstudioPolimorfismo.csproj|solutionrelative:casoestudiopolimorfismo\\empleadoasalariado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EB352F1-80FD-48E4-9318-FFC3FDAABD02}|CasoEstudioPolimorfismo\\CasoEstudioPolimorfismo.csproj|c:\\users\\ronni\\source\\repos\\csharpbasico\\polimorfismo\\casoestudiopolimorfismo\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EB352F1-80FD-48E4-9318-FFC3FDAABD02}|CasoEstudioPolimorfismo\\CasoEstudioPolimorfismo.csproj|solutionrelative:casoestudiopolimorfismo\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 313,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PruebaSistemaNomina.cs",
+              "DocumentMoniker": "C:\\Users\\ronni\\source\\repos\\CSharpBasico\\Polimorfismo\\CasoEstudioPolimorfismo\\PruebaSistemaNomina.cs",
+              "RelativeDocumentMoniker": "CasoEstudioPolimorfismo\\PruebaSistemaNomina.cs",
+              "ToolTip": "C:\\Users\\ronni\\source\\repos\\CSharpBasico\\Polimorfismo\\CasoEstudioPolimorfismo\\PruebaSistemaNomina.cs*",
+              "RelativeToolTip": "CasoEstudioPolimorfismo\\PruebaSistemaNomina.cs*",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAcwDIAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T03:12:33.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmpleadoBaseMasComision.cs",
+              "DocumentMoniker": "C:\\Users\\ronni\\source\\repos\\CSharpBasico\\Polimorfismo\\CasoEstudioPolimorfismo\\EmpleadoBaseMasComision.cs",
+              "RelativeDocumentMoniker": "CasoEstudioPolimorfismo\\EmpleadoBaseMasComision.cs",
+              "ToolTip": "C:\\Users\\ronni\\source\\repos\\CSharpBasico\\Polimorfismo\\CasoEstudioPolimorfismo\\EmpleadoBaseMasComision.cs",
+              "RelativeToolTip": "CasoEstudioPolimorfismo\\EmpleadoBaseMasComision.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T03:06:38.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmpleadoPorComision.cs",
+              "DocumentMoniker": "C:\\Users\\ronni\\source\\repos\\CSharpBasico\\Polimorfismo\\CasoEstudioPolimorfismo\\EmpleadoPorComision.cs",
+              "RelativeDocumentMoniker": "CasoEstudioPolimorfismo\\EmpleadoPorComision.cs",
+              "ToolTip": "C:\\Users\\ronni\\source\\repos\\CSharpBasico\\Polimorfismo\\CasoEstudioPolimorfismo\\EmpleadoPorComision.cs",
+              "RelativeToolTip": "CasoEstudioPolimorfismo\\EmpleadoPorComision.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAIwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T02:59:25.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmpleadoPorHoras.cs",
+              "DocumentMoniker": "C:\\Users\\ronni\\source\\repos\\CSharpBasico\\Polimorfismo\\CasoEstudioPolimorfismo\\EmpleadoPorHoras.cs",
+              "RelativeDocumentMoniker": "CasoEstudioPolimorfismo\\EmpleadoPorHoras.cs",
+              "ToolTip": "C:\\Users\\ronni\\source\\repos\\CSharpBasico\\Polimorfismo\\CasoEstudioPolimorfismo\\EmpleadoPorHoras.cs",
+              "RelativeToolTip": "CasoEstudioPolimorfismo\\EmpleadoPorHoras.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAkwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T02:48:01.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmpleadoAsalariado.cs",
+              "DocumentMoniker": "C:\\Users\\ronni\\source\\repos\\CSharpBasico\\Polimorfismo\\CasoEstudioPolimorfismo\\EmpleadoAsalariado.cs",
+              "RelativeDocumentMoniker": "CasoEstudioPolimorfismo\\EmpleadoAsalariado.cs",
+              "ToolTip": "C:\\Users\\ronni\\source\\repos\\CSharpBasico\\Polimorfismo\\CasoEstudioPolimorfismo\\EmpleadoAsalariado.cs",
+              "RelativeToolTip": "CasoEstudioPolimorfismo\\EmpleadoAsalariado.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T02:43:04.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\ronni\\source\\repos\\CSharpBasico\\Polimorfismo\\CasoEstudioPolimorfismo\\Empleado.cs",
+              "RelativeDocumentMoniker": "CasoEstudioPolimorfismo\\Empleado.cs",
+              "ToolTip": "C:\\Users\\ronni\\source\\repos\\CSharpBasico\\Polimorfismo\\CasoEstudioPolimorfismo\\Empleado.cs",
+              "RelativeToolTip": "CasoEstudioPolimorfismo\\Empleado.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwC4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T01:38:04.613Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f4e46f1e-cf83-40aa-b568-a627394bc994}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

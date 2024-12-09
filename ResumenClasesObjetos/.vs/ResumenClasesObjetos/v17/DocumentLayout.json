@@ -1,13 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ronni\\source\\repos\\ResumenClasesObjetos\\",
+  "WorkspaceRootPath": "C:\\Users\\ronni\\source\\repos\\CSharpBasico\\ResumenClasesObjetos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5729F70D-C0BA-495E-BDA3-234723C1E446}|Ejemplo5\\Ejemplo5.csproj|c:\\users\\ronni\\source\\repos\\resumenclasesobjetos\\ejemplo5\\pruebacuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F891BA11-A815-47AE-9DEC-716CCDD44FD2}|Ejemplo4\\Ejemplo4.csproj|c:\\users\\ronni\\source\\repos\\csharpbasico\\resumenclasesobjetos\\ejemplo4\\librocalificaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F891BA11-A815-47AE-9DEC-716CCDD44FD2}|Ejemplo4\\Ejemplo4.csproj|solutionrelative:ejemplo4\\librocalificaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{421E334E-7C6E-47FC-AC2E-B741D33FF505}|Ejemplo2\\Ejemplo2.csproj|c:\\users\\ronni\\source\\repos\\csharpbasico\\resumenclasesobjetos\\ejemplo2\\librocalificaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{421E334E-7C6E-47FC-AC2E-B741D33FF505}|Ejemplo2\\Ejemplo2.csproj|solutionrelative:ejemplo2\\librocalificaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{421E334E-7C6E-47FC-AC2E-B741D33FF505}|Ejemplo2\\Ejemplo2.csproj|c:\\users\\ronni\\source\\repos\\csharpbasico\\resumenclasesobjetos\\ejemplo2\\ejemplo2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{421E334E-7C6E-47FC-AC2E-B741D33FF505}|Ejemplo2\\Ejemplo2.csproj|solutionrelative:ejemplo2\\ejemplo2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5729F70D-C0BA-495E-BDA3-234723C1E446}|Ejemplo5\\Ejemplo5.csproj|c:\\users\\ronni\\source\\repos\\csharpbasico\\resumenclasesobjetos\\ejemplo5\\pruebacuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5729F70D-C0BA-495E-BDA3-234723C1E446}|Ejemplo5\\Ejemplo5.csproj|solutionrelative:ejemplo5\\pruebacuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5729F70D-C0BA-495E-BDA3-234723C1E446}|Ejemplo5\\Ejemplo5.csproj|c:\\users\\ronni\\source\\repos\\resumenclasesobjetos\\ejemplo5\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5729F70D-C0BA-495E-BDA3-234723C1E446}|Ejemplo5\\Ejemplo5.csproj|c:\\users\\ronni\\source\\repos\\csharpbasico\\resumenclasesobjetos\\ejemplo5\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5729F70D-C0BA-495E-BDA3-234723C1E446}|Ejemplo5\\Ejemplo5.csproj|solutionrelative:ejemplo5\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -35,25 +47,64 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "LibroCalificaciones.cs",
+              "DocumentMoniker": "C:\\Users\\ronni\\source\\repos\\CSharpBasico\\ResumenClasesObjetos\\Ejemplo4\\LibroCalificaciones.cs",
+              "RelativeDocumentMoniker": "Ejemplo4\\LibroCalificaciones.cs",
+              "ToolTip": "C:\\Users\\ronni\\source\\repos\\CSharpBasico\\ResumenClasesObjetos\\Ejemplo4\\LibroCalificaciones.cs",
+              "RelativeToolTip": "Ejemplo4\\LibroCalificaciones.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T15:23:08.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibroCalificaciones.cs",
+              "DocumentMoniker": "C:\\Users\\ronni\\source\\repos\\CSharpBasico\\ResumenClasesObjetos\\Ejemplo2\\LibroCalificaciones.cs",
+              "RelativeDocumentMoniker": "Ejemplo2\\LibroCalificaciones.cs",
+              "ToolTip": "C:\\Users\\ronni\\source\\repos\\CSharpBasico\\ResumenClasesObjetos\\Ejemplo2\\LibroCalificaciones.cs",
+              "RelativeToolTip": "Ejemplo2\\LibroCalificaciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T15:23:03.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ejemplo2",
+              "DocumentMoniker": "C:\\Users\\ronni\\source\\repos\\CSharpBasico\\ResumenClasesObjetos\\Ejemplo2\\Ejemplo2.csproj",
+              "RelativeDocumentMoniker": "Ejemplo2\\Ejemplo2.csproj",
+              "ToolTip": "C:\\Users\\ronni\\source\\repos\\CSharpBasico\\ResumenClasesObjetos\\Ejemplo2\\Ejemplo2.csproj",
+              "RelativeToolTip": "Ejemplo2\\Ejemplo2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-06T15:22:59.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "PruebaCuenta.cs",
-              "DocumentMoniker": "C:\\Users\\ronni\\source\\repos\\ResumenClasesObjetos\\Ejemplo5\\PruebaCuenta.cs",
+              "DocumentMoniker": "C:\\Users\\ronni\\source\\repos\\CSharpBasico\\ResumenClasesObjetos\\Ejemplo5\\PruebaCuenta.cs",
               "RelativeDocumentMoniker": "Ejemplo5\\PruebaCuenta.cs",
-              "ToolTip": "C:\\Users\\ronni\\source\\repos\\ResumenClasesObjetos\\Ejemplo5\\PruebaCuenta.cs*",
-              "RelativeToolTip": "Ejemplo5\\PruebaCuenta.cs*",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAUwBwAAABHAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ronni\\source\\repos\\CSharpBasico\\ResumenClasesObjetos\\Ejemplo5\\PruebaCuenta.cs",
+              "RelativeToolTip": "Ejemplo5\\PruebaCuenta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T23:06:24.244Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Cuenta.cs",
-              "DocumentMoniker": "C:\\Users\\ronni\\source\\repos\\ResumenClasesObjetos\\Ejemplo5\\Cuenta.cs",
+              "DocumentMoniker": "C:\\Users\\ronni\\source\\repos\\CSharpBasico\\ResumenClasesObjetos\\Ejemplo5\\Cuenta.cs",
               "RelativeDocumentMoniker": "Ejemplo5\\Cuenta.cs",
-              "ToolTip": "C:\\Users\\ronni\\source\\repos\\ResumenClasesObjetos\\Ejemplo5\\Cuenta.cs",
+              "ToolTip": "C:\\Users\\ronni\\source\\repos\\CSharpBasico\\ResumenClasesObjetos\\Ejemplo5\\Cuenta.cs",
               "RelativeToolTip": "Ejemplo5\\Cuenta.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwAMAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBUAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T22:57:52.857Z",
               "EditorCaption": ""

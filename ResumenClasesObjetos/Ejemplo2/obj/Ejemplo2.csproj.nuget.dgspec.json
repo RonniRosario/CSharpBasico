@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ronni\\source\\repos\\ResumenClasesObjetos\\Ejemplo2\\Ejemplo2.csproj": {}
+    "C:\\Users\\ronni\\Source\\Repos\\CSharpBasico\\ResumenClasesObjetos\\Ejemplo2\\Ejemplo2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ronni\\source\\repos\\ResumenClasesObjetos\\Ejemplo2\\Ejemplo2.csproj": {
+    "C:\\Users\\ronni\\Source\\Repos\\CSharpBasico\\ResumenClasesObjetos\\Ejemplo2\\Ejemplo2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ronni\\source\\repos\\ResumenClasesObjetos\\Ejemplo2\\Ejemplo2.csproj",
+        "projectUniqueName": "C:\\Users\\ronni\\Source\\Repos\\CSharpBasico\\ResumenClasesObjetos\\Ejemplo2\\Ejemplo2.csproj",
         "projectName": "Ejemplo2",
-        "projectPath": "C:\\Users\\ronni\\source\\repos\\ResumenClasesObjetos\\Ejemplo2\\Ejemplo2.csproj",
+        "projectPath": "C:\\Users\\ronni\\Source\\Repos\\CSharpBasico\\ResumenClasesObjetos\\Ejemplo2\\Ejemplo2.csproj",
         "packagesPath": "C:\\Users\\ronni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ronni\\source\\repos\\ResumenClasesObjetos\\Ejemplo2\\obj\\",
+        "outputPath": "C:\\Users\\ronni\\source\\repos\\CSharpBasico\\ResumenClasesObjetos\\Ejemplo2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ronni\\AppData\\Roaming\\NuGet\\NuGet.Config",
