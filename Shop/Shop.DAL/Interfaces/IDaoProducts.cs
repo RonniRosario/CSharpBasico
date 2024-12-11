@@ -9,10 +9,9 @@ namespace Shop.DAL.Interfaces
         void ModifyProduct(ProductsCreateOrUpdateModel productsCreateOrUpdate);
         void RemoveProduct(ProductsRemoveModel productsRemove);
        
-        GetProductsModel GetProductsModel(int productid);
+        GetProductsModel GetProductsById(int productid);
 
         List<GetProductsModel> GetProducts(); 
-
 
 
     }

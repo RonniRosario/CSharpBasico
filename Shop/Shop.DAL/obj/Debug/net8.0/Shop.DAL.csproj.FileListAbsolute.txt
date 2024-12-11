@@ -10,3 +10,16 @@ C:\Users\ronni\source\repos\Shop\Shop.DAL\obj\Debug\net8.0\Shop.DAL.dll
 C:\Users\ronni\source\repos\Shop\Shop.DAL\obj\Debug\net8.0\refint\Shop.DAL.dll
 C:\Users\ronni\source\repos\Shop\Shop.DAL\obj\Debug\net8.0\Shop.DAL.pdb
 C:\Users\ronni\source\repos\Shop\Shop.DAL\obj\Debug\net8.0\ref\Shop.DAL.dll
+C:\Users\ronni\source\repos\CSharpBasico\Shop\Shop.DAL\bin\Debug\net8.0\Shop.DAL.deps.json
+C:\Users\ronni\source\repos\CSharpBasico\Shop\Shop.DAL\bin\Debug\net8.0\Shop.DAL.dll
+C:\Users\ronni\source\repos\CSharpBasico\Shop\Shop.DAL\bin\Debug\net8.0\Shop.DAL.pdb
+C:\Users\ronni\source\repos\CSharpBasico\Shop\Shop.DAL\obj\Debug\net8.0\Shop.DAL.csproj.AssemblyReference.cache
+C:\Users\ronni\source\repos\CSharpBasico\Shop\Shop.DAL\obj\Debug\net8.0\Shop.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronni\source\repos\CSharpBasico\Shop\Shop.DAL\obj\Debug\net8.0\Shop.DAL.AssemblyInfoInputs.cache
+C:\Users\ronni\source\repos\CSharpBasico\Shop\Shop.DAL\obj\Debug\net8.0\Shop.DAL.AssemblyInfo.cs
+C:\Users\ronni\source\repos\CSharpBasico\Shop\Shop.DAL\obj\Debug\net8.0\Shop.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ronni\source\repos\CSharpBasico\Shop\Shop.DAL\obj\Debug\net8.0\Shop.DAL.sourcelink.json
+C:\Users\ronni\source\repos\CSharpBasico\Shop\Shop.DAL\obj\Debug\net8.0\Shop.DAL.dll
+C:\Users\ronni\source\repos\CSharpBasico\Shop\Shop.DAL\obj\Debug\net8.0\refint\Shop.DAL.dll
+C:\Users\ronni\source\repos\CSharpBasico\Shop\Shop.DAL\obj\Debug\net8.0\Shop.DAL.pdb
+C:\Users\ronni\source\repos\CSharpBasico\Shop\Shop.DAL\obj\Debug\net8.0\ref\Shop.DAL.dll

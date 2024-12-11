@@ -2,6 +2,7 @@
 
 using Microsoft.EntityFrameworkCore;
 using Shop.DAL.Entities;
+using System.Security.Cryptography;
 
 namespace Shop.DAL.Context
 {
@@ -15,6 +16,17 @@ namespace Shop.DAL.Context
         public DbSet<Products> Products { get; set; }
         public DbSet<Customer> Customers { get; set; }
         public DbSet<Employees> Employees { get; set; }
-        public DbSet<Suppliers> Suppliers { get; set; }
+       
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
+
+            modelBuilder.Entity<Products>().Property(p => p.unitprice).HasColumnType("decimal(18,2)");
+
+            modelBuilder.Entity<Employees>().Property(e => e.birthdate).HasColumnType("datetime");
+            modelBuilder.Entity<Employees>().Property(e => e.hiredate).HasColumnType("datetime");
+        }
     }
+
 }

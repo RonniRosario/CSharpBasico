@@ -6,6 +6,7 @@ using Shop.DAL.Interfaces;
 using Shop.DAL.Models.Products;
 using Shop.DAL.Exceptions;
 using Shop.DAL.Entities;
+using Shop.DAL.Models.Customer;
 
 namespace Shop.DAL.Daos
 {
@@ -28,9 +29,11 @@ namespace Shop.DAL.Daos
                     throw new ProductsDaoException("Debe suministrar el parametro.");
                 }
 
+
+
                 Products products = new Products()
                 {
-                    productid = productsCreateOrUpdate.productid,
+                    
                     productname = productsCreateOrUpdate.productname,
                     supplierid = productsCreateOrUpdate.supplierid,
                     categoryid = productsCreateOrUpdate.categoryid,
@@ -67,7 +70,6 @@ namespace Shop.DAL.Daos
 
                                 }).ToList();
 
-
             }
             catch (Exception ex)
             {
@@ -77,7 +79,7 @@ namespace Shop.DAL.Daos
             return productsList;
         }
 
-        public GetProductsModel GetProductsModel(int productid)
+        public GetProductsModel GetProductsById(int productid)
         {
            GetProductsModel productFound = new GetProductsModel();
 
@@ -89,7 +91,6 @@ namespace Shop.DAL.Daos
                 productFound.productname = products.productname;
                 productFound.unitprice= products.unitprice; 
                 productFound.creation_date = products.creation_date;
-                
                 
             }
             catch (Exception ex)
@@ -106,7 +107,8 @@ namespace Shop.DAL.Daos
             {
                 Products? productToUpdate = _context.Products.Find(productsCreateOrUpdate.productid);
                 //Lanzar excepcion que el producto que esta tratando de modificar no se encuentra 
-
+                NotFoundProduct(productsCreateOrUpdate);
+                
                 productToUpdate.productid = productsCreateOrUpdate.productid;
                 productToUpdate.productname = productsCreateOrUpdate.productname;
                 productToUpdate.supplierid = productsCreateOrUpdate.supplierid;
@@ -146,6 +148,15 @@ namespace Shop.DAL.Daos
             }
         }
 
-        
+
+        public void NotFoundProduct(ProductsCreateOrUpdateModel productCreateOrUpdate)
+        {
+            if (productCreateOrUpdate.productid == null)
+            {
+                Console.WriteLine("No se encontro el producto");
+            }
+        }
+
+
     }
 }
